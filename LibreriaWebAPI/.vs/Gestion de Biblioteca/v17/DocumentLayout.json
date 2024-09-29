@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Users\\Usuario\\Desktop\\Prog\\VisualStudio(Hacer Repositorio)\\Proyectos a hacer\\library-db-exercise-405708\\Gestion de Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D82FA66-09A9-4199-87D6-03F7E7CB0FBF}|Gestion de Biblioteca\\Gestion de Biblioteca.csproj|e:\\users\\usuario\\desktop\\prog\\visualstudio(hacer repositorio)\\proyectos a hacer\\library-db-exercise-405708\\gestion de biblioteca\\gestion de biblioteca\\context\\librodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D82FA66-09A9-4199-87D6-03F7E7CB0FBF}|Gestion de Biblioteca\\Gestion de Biblioteca.csproj|solutionrelative:gestion de biblioteca\\context\\librodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D82FA66-09A9-4199-87D6-03F7E7CB0FBF}|Gestion de Biblioteca\\Gestion de Biblioteca.csproj|e:\\users\\usuario\\desktop\\prog\\visualstudio(hacer repositorio)\\proyectos a hacer\\library-db-exercise-405708\\gestion de biblioteca\\gestion de biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D82FA66-09A9-4199-87D6-03F7E7CB0FBF}|Gestion de Biblioteca\\Gestion de Biblioteca.csproj|solutionrelative:gestion de biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 772,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Users\\Usuario\\Desktop\\Prog\\VisualStudio(Hacer Repositorio)\\Proyectos a hacer\\library-db-exercise-405708\\Gestion de Biblioteca\\Gestion de Biblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "Gestion de Biblioteca\\Program.cs",
+              "ToolTip": "E:\\Users\\Usuario\\Desktop\\Prog\\VisualStudio(Hacer Repositorio)\\Proyectos a hacer\\library-db-exercise-405708\\Gestion de Biblioteca\\Gestion de Biblioteca\\Program.cs",
+              "RelativeToolTip": "Gestion de Biblioteca\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:58:28.184Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibroDbContext.cs",
+              "DocumentMoniker": "E:\\Users\\Usuario\\Desktop\\Prog\\VisualStudio(Hacer Repositorio)\\Proyectos a hacer\\library-db-exercise-405708\\Gestion de Biblioteca\\Gestion de Biblioteca\\Context\\LibroDbContext.cs",
+              "RelativeDocumentMoniker": "Gestion de Biblioteca\\Context\\LibroDbContext.cs",
+              "ToolTip": "E:\\Users\\Usuario\\Desktop\\Prog\\VisualStudio(Hacer Repositorio)\\Proyectos a hacer\\library-db-exercise-405708\\Gestion de Biblioteca\\Gestion de Biblioteca\\Context\\LibroDbContext.cs",
+              "RelativeToolTip": "Gestion de Biblioteca\\Context\\LibroDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T00:14:02.571Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 114,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
